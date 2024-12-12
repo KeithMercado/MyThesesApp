@@ -811,6 +811,7 @@
     background: #fff;
     color: #000;
     border-top: 15px solid rgba(122, 91, 13, .5);
+    z-index: 4000;
 }
 
 .footer-logo {
