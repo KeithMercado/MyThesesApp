@@ -48,7 +48,7 @@ function Main() {
                 </form>
             </div>
 
-            <footer className="footer">
+            <footer className="lib-footer">
                 <p>{copyright}</p>
             </footer>
         </div>
