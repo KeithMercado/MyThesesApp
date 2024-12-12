@@ -40,7 +40,7 @@ function Librarian() {
       },
       {
         src: "/pic2.jpg",
-        title: "Lorem ipsum",
+        title: "Staff and Services",
         text: "Learn more about our extensive collections and services.",
       },
       {
