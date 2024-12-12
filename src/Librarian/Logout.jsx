@@ -283,7 +283,8 @@ function Librarian() {
                     <p className="footer-item address">{address}</p>
                     <p className="footer-item copyright">{copyright}</p>
                 </div>
-                <a href="/" className="footer-item website">{website}</a>
+                <a href="https://neu.edu.ph/main/" className="footer-item website" target="_blank" rel="noopener noreferrer">
+                {website}</a>
                 <img src={logo} alt="NEU Logo" className='footer-logo' />
             </footer>
         </div>
